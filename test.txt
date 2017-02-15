@@ -1,2 +1,3 @@
 Test test test test double test making changes to the document
-hi testing commmit -a 
+hi testing commmit -a
+test the git in atom 
